@@ -1,0 +1,5 @@
+** Notes.txt **
+
+In Linux, the find command can be used to search for files.
+
+Ex: find notes.txt
